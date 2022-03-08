@@ -1,0 +1,64 @@
+// Assignment 9: JSON
+
+[
+    {
+        "Title" : "1999",
+        "Artists" : ["Prince"],
+        "Genres" : ["Rock"],
+        "Year" : 1982
+    },
+    {
+        "Title" : "24 Karat",
+        "Artists" : ["Bruno Mars"],
+        "Genres" : ["Funk", "Soul"],
+        "Year" : 2016
+    },
+    {
+        "Title" : "4 Minutes",
+        "Artists" : ["Madonna", "Justin Timberlake"],
+        "Genres" : ["Pop"],
+        "Year" : 2008
+    },
+    {
+        "Title" : "Accidentally In Love",
+        "Artists" : ["Counting Crows"],
+        "Genres" : ["Disco"],
+        "Year" : 2004
+    },
+    {
+        "Title" : "Ain't No Other Man",
+        "Artists" : ["Christina Aguilera"],
+        "Genres" : ["Soul", "Pop"],
+        "Year" : 2006
+    },
+    {
+        "Title" : "Ain't No Stopping Us Now",
+        "Artists" : ["McFadden and Whitehead"],
+        "Genres" : ["Pop", "Soul"],
+        "Year" : 2006
+    },
+    {
+        "Title" : "Ain't Nobody",
+        "Artists" : ["Chaka Khan"],
+        "Genres" : ["Soul", "Pop", "Jazz"],
+        "Year" : 1983
+    },
+    {
+        "Title" : "All Night Long",
+        "Artists" : ["The Commodores"],
+        "Genres" : ["Soul"],
+        "Year" : 2006
+    },
+    {
+        "Title" : "American Boy",
+        "Artists" : ["Estelle"],
+        "Genres" : ["Soul", "Pop"],
+        "Year" : 2008
+    },
+    {
+        "Title" : "Baby Come On Over",
+        "Artists" : ["Samantha Mumba"],
+        "Genres" : ["Soul", "Pop"],
+        "Year" : 2000
+    }
+]
